@@ -819,6 +819,16 @@ section h2::after {
         grid-template-columns: 1fr;
     }
 
+    .candidate-card {
+        grid-template-columns: 1fr;
+        gap: 30px;
+        padding: 30px;
+    }
+
+    .candidate-image {
+        order: -1;
+    }
+
     .candidate-highlights {
         grid-template-columns: 1fr;
     }
