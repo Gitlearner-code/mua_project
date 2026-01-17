@@ -1,10 +1,10 @@
-# MUA - Mercure Unie et Active
+# MUA - Mercure Uni et Actif
 
 A professional website for the MUA university presidency campaign. This is a responsive portfolio showcasing our movement, candidate, convictions, and projects.
 
 ## About MUA
 
-**MUA** (Mercure Unie et Active) is a unified and active movement focused on student leadership and positive change within the university community. We are committed to transparent, inclusive, and innovative governance.
+**MUA** (Mercure Uni et Actif) is a unified and active movement focused on student leadership and positive change within the university community. We are committed to transparent, inclusive, and innovative governance.
 
 ## Features
 
@@ -197,6 +197,6 @@ For questions or support regarding this website, please reach out to the MUA tea
 
 ---
 
-**Created for:** MUA - Mercure Unie et Active  
+**Created for:** MUA - Mercure Uni et Actif  
 **Year:** 2026  
 **Version:** 1.0
