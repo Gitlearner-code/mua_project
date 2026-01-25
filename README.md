@@ -60,20 +60,7 @@ MUA/
 3. Open `index.html` in your web browser
 4. To edit: Open the project in your text editor
 
-## How to Add Images
 
-Replace the placeholder images with your own:
-
-1. Create an `images` folder if it doesn't exist
-2. Add your images to this folder with these names:
-   - `hero-image.jpg` - Hero section background
-   - `movement-image.jpg` - Movement section image
-   - `candidate.jpg` - Candidate profile photo
-   - `project-1.jpg` through `project-6.jpg` - Project showcase images
-
-The images will automatically display in the website.
-
-## Customization
 
 ### Edit Text Content
 Open `index.html` and edit:
@@ -81,22 +68,6 @@ Open `index.html` and edit:
 - All section headings and descriptions
 - Candidate information
 - Project details
-
-### Modify Colors
-Edit the CSS variables in [css/style.css](css/style.css#L8-L16):
-```css
-:root {
-    --primary-blue: #0052cc;
-    --dark-blue: #003d99;
-    --light-blue: #e8f0fe;
-    /* ... other colors */
-}
-```
-
-### Add Social Media Links
-Edit the footer section in [index.html](index.html) to add your social media URLs.
-
-## Features Explained
 
 ### Navigation
 - Fixed header with MUA logo and navigation links
@@ -136,56 +107,7 @@ Edit the footer section in [index.html](index.html) to add your social media URL
 - Safari (latest)
 - Mobile browsers
 
-## Publishing to GitHub
 
-### Steps:
-1. Create a new repository on GitHub named `MUA`
-2. Initialize git in your project folder:
-   ```bash
-   git init
-   ```
-3. Add all files:
-   ```bash
-   git add .
-   ```
-4. Commit:
-   ```bash
-   git commit -m "Initial commit - MUA website"
-   ```
-5. Add remote (replace YOUR_USERNAME):
-   ```bash
-   git remote add origin https://github.com/YOUR_USERNAME/MUA.git
-   ```
-6. Push:
-   ```bash
-   git branch -M main
-   git push -u origin main
-   ```
-
-### Deploy with GitHub Pages:
-1. Go to repository Settings
-2. Scroll to "GitHub Pages"
-3. Select "Deploy from a branch"
-4. Choose `main` branch
-5. Your site will be live at `https://YOUR_USERNAME.github.io/MUA/`
-
-## Maintenance
-
-- Update candidate information seasonally
-- Add new projects as they launch
-- Update social media links in footer
-- Keep images optimized for web
-
-## Future Enhancements
-
-Potential additions:
-- Blog/News section
-- Event calendar
-- Team member profiles
-- Donation/Support system
-- Multi-language support
-- Newsletter signup
-- Analytics integration
 
 ## License
 
